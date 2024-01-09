@@ -1,0 +1,3 @@
+# inmuebles bogota
+## objetivo
+El objetivo principal de este proyecto es desarrollar un modelo de machine learning basado en regresión lineal para predecir con precisión el precio de bienes inmuebles en Bogotá. Utilizando datos relevantes y características clave de las propiedades, nuestro modelo buscará proporcionar estimaciones confiables que puedan ser de utilidad para compradores, vendedores y profesionales del sector inmobiliario. Este enfoque avanzado permitirá optimizar la toma de decisiones y ofrecer una visión más precisa del mercado inmobiliario en la capital colombiana, mejorando así la transparencia y eficiencia en las transacciones inmobiliarias
